@@ -1,2 +1,2 @@
 # Titanic_Survival_Prediction
-Survival prediction using Logistic regresiion
+Survival prediction using Logistic regression
